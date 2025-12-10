@@ -17,15 +17,15 @@ nav_order: 1
 
 ## Learning objectives 
 
-1. At the end of this workshop, you will be able to:
-2. Add shapes into the Blender viewport
-3. Move around the workspace by panning, zooming, and rotating 
-4. Use the orthographic views (gizmo) 
-5. Resize, rotate, and move objects 
-6. Edit the mesh of an object
-7. Group objects together 
-8. Add materials and colours to your object
-9. Save and export your file into an .STL or .OBJ file 
+ At the end of this workshop, you will be able to:
+1. Add shapes into the Blender viewport
+2. Move around the workspace by panning, zooming, and rotating 
+3. Use the orthographic views (gizmo) 
+4. Resize, rotate, and move objects 
+5. Edit the mesh of an object
+6. Group objects together 
+7. Add materials and colours to your object
+8. Save and export your file into an .STL or .OBJ file 
 
 
  
