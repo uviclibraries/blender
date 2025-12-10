@@ -11,7 +11,7 @@ nav_order: 1
 - Introductory presentation: 00 min
 - Hands-on activities: 00-00 min
 
-## Blender?
+## Why Blender?
 
 [Blender](https://www.blender.org/) is a free, open source application that supports the ability to create high quality 3D models and animation. Blender, while not entirely intuitive at first, is powerful and has an incredibly active community surrounding it with tons of online tutorials. There is no limit to your imagination in Blender. Blender's capabilities and interface is comparitive to the 3D animation industry standard Maya Autodesk so a lot of the skills you learn in Blender may be easily transferred over.
 
