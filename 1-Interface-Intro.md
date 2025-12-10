@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/Blender-logo.png" style="float:right;width:200px;height:200px;" alt="Blender logo"> 
 
-# Table Activity 
+# Interface Intro Activity 
 
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
