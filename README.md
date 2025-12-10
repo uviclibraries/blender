@@ -1,4 +1,4 @@
-# Modelling in Blender 
+# Modeling in Blender 
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/blender/
