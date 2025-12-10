@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1-Mushroom
+title: 2-table
 nav_order: 4
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
