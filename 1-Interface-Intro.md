@@ -15,7 +15,7 @@ If you and your group have any questions or get stuck as you work through this i
 
 -Open Blender. A window should pop up that shows “New File” and “Recent Files”.
 -On the left under New File, select “General” to open a new file in a general workspace. A “General Workspace” means your Blender application will be set up so you have access to a large variety of different tools rather than specific tools for something such as Animation or VFX. 
-<img src="images/Blender-logo.png" style="float:right;width:200px;height:200px;">
+<img src="images/OpeningNewFile.png" style="float:right;width:200px;height:200px;">
 
 ## 2. Deleting and Adding Objects:
 
