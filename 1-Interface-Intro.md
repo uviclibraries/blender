@@ -5,7 +5,7 @@ nav_order: 3
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/Blender-logo.png" style="float:right;width:200px;height:200px;" alt="Blender logo"> 
+<img src="images/Blender-Logo.png" style="float:right;width:200px;height:200px;" alt="Blender logo"> 
 
 # Interface Intro Activity 
 
