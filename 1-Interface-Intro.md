@@ -41,9 +41,9 @@ It is important to save frequently when using Blender. If your application crash
 
 The window that your cube is in is known as the Viewport and can be tricky to learn how to navigate. Here are some keyboard shortcuts to memorize so you can move around your cube. Practice!
 
-1.Pan= Shift + Middle Mouse Button + Drag Mouse
-2.Zoom= Middle Mouse Scroll
-3.Rotate= Middle Mouse Button + Drag Mouse
+1. Pan= Shift + Middle Mouse Button + Drag Mouse
+2. Zoom= Middle Mouse Scroll
+3. Rotate= Middle Mouse Button + Drag Mouse
 
 ## 5. Trying the Gizmo
 
