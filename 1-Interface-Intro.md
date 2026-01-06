@@ -13,17 +13,17 @@ If you and your group have any questions or get stuck as you work through this i
 
 ## 1. Opening a new File in Blender:
 
-1.Open Blender. A window should pop up that shows “New File” and “Recent Files”.
-2.On the left under New File, select “General” to open a new file in a general workspace. A “General Workspace” means your Blender application will be set up so you have access to a large variety of different tools rather than specific tools for something such as Animation or VFX. 
+1. Open Blender. A window should pop up that shows “New File” and “Recent Files”.
+2. On the left under New File, select “General” to open a new file in a general workspace. A “General Workspace” means your Blender application will be set up so you have access to a large variety of different tools rather than specific tools for something such as Animation or VFX. 
 <img src="images/OpeningNewFile.png" style="float:right;width:200px;height:200px;">
 
 ## 2. Deleting and Adding Objects:
 
 You will start with a cube in your scene. For the sake of the exercise, we are going to delete the cube and re-add it just so we can go over how to add and delete objects.  
 
-1.Right click on the cube and select “Delete” at the bottom of the pop up window. You can also delete by left clicking the square and pressing Delete on your keyboard.
-2.Go to “Add” At the top left of the viewport (the area in which your cube was) and click on “Mesh”. You will see there are different meshes you can add to your scene, some which are 2D and some are 3D. Feel free to add ones that look interesting and then practice deleting them from your scene. 
-3.With nothing in your scene, select “Cube” (NOT the “Plane”). Now you have successfully deleted and readded an object back into your scene file. Keep the cube in your scene.
+1. Right click on the cube and select “Delete” at the bottom of the pop up window. You can also delete by left clicking the square and pressing Delete on your keyboard.
+2. Go to “Add” At the top left of the viewport (the area in which your cube was) and click on “Mesh”. You will see there are different meshes you can add to your scene, some which are 2D and some are 3D. Feel free to add ones that look interesting and then practice deleting them from your scene. 
+3. With nothing in your scene, select “Cube” (NOT the “Plane”). Now you have successfully deleted and readded an object back into your scene file. Keep the cube in your scene.
 <img src="images/AddingAndDeletingObjects.gif">
 
 ## 3. Saving in Blender:
