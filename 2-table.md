@@ -15,38 +15,44 @@ If you and your group have any questions or get stuck as you work through this i
 
 1. First we will begin by going to file in the top left corner and clicking on "New" and then "General". You should have a cube in your scene to begin.
 
-## Scaling the Cube into a Rectangle: 
-<img src="images/Rectangle1of2.png" style="float:right;width:200px;height:200px;">
+## Scaling the Cube into a Rectangle
+
+To begin making a table we are going to turn the cube into a rectangle. 
+
 <img src="images/Rectangle2of2.png" style="float:right;width:200px;height:200px;">
+<img src="images/Rectangle1of2.png" style="float:right;width:200px;height:200px;">
 1. First, begin by changing the dimensions of the cube to look like a flat rectangle (this will be the table top). In a 3D software you do this by *"scaling"* the dimensions. 
 2. **Left Click** on the cube to select it and then pressing the **N key** to open the *"properties tab"*. This should pop up on the right hand side of the viewport beside the Gizmo. The *"properties tab"* is a window which has information on your model such as the current rotation, scale dimensions, and location. 
 3. In the properties tab under *"Dimensions"*, change the scale to be **X: 2m, Y: 4M, and Z: .1M**. You can also scale with the scale tool on the left hand tool bar using the “scale” option and dragging each square along the 3 coloured dimensions to change your shape by clicking on one of the coloured squares and dragging. You should end up with a flat rectangle shape. 
 4. Press **CTRL + A** to open the *“Apply”* window and press on *“Scale”* to apply the scale. (Now Blender will understand your rectangle as an unedited object rather than an edited cube.) 
 5. Save your work with **CTRL + S**
- <img src="images/ApplyingScaleinBlender.png" style="float:right;width:200px;height:200px;"> 
+ <img src="images/ApplyingScaleinBlender.png" style="float:right;"> 
 
-## Loop Cutting A Mesh in Edit Mode:
 
- <img src="images/ChangingModes.gif"> 
+
+## Loop Cutting A Mesh in Edit Mode
+
 
 Instead of adding extra shapes to create the legs of the table, we are going to edit the “Mesh” of the rectangle (think of this like the shell of the shape) by cutting the “Faces” of the shape it into smaller pieces and then “Extruding” shapes from the rectangle we just made. This is best practice for 3D models as it keeps things simple and thus easier to edit later on. To do this, you must turn your Object Interaction mode to “Edit Mode”. 
-
-1. Change your *"Object Interaction Mode"* from *"Object Mode"* to *"Edit Mode"* at the top left corner beneath the *“Edit”* and *“Render”* tabs. **Left click** on *"Object Mode"* and a window will pop up. Select *"Edit Mode"*. You can also press **Tab** on your keyboard to switch between Object Mode and Edit Mode easier. In Edit Mode we begin to edit Points, Vertices, and Faces which is what makes up your object. You will also see on the left hand side of the screen that you have a lot more tools to use. These are used to edit the mesh of the object.  <img src="images/ChangingModes.gif" style="float:right;width:200px;height:200px;"> 
+ <img src="images/ChangingModes.gif"> 
+ 
+1. Change your *"Object Interaction Mode"* from *"Object Mode"* to *"Edit Mode"* at the top left corner beneath the *“Edit”* and *“Render”* tabs. **Left click** on *"Object Mode"* and a window will pop up. Select *"Edit Mode"*. You can also press **Tab** on your keyboard to switch between Object Mode and Edit Mode easier. In Edit Mode we begin to edit Points, Vertices, and Faces which is what makes up your object. You will also see on the left hand side of the screen that you have a lot more tools to use. These are used to edit the mesh of the object.  <img 
 2. Bring your cursor over to the navigation **gizmo** in the top right corner and select the blue **-Z** option so that you are staring at a direct profile of the bottom half of the table top. 
-3. Select the *“Loop Cut”*  <img src="images/LoopCut.png"> box on the left hand tool bar. It should be a cube with a vertical line going up the centre. Make sure your rectangle is selected (it will be orange tinted if it is selected) by pressing **A** on your keyboard.  <img src=" images/Loopcuttingtable.gif">
+3. Select the *“Loop Cut”*  <img src="images/LoopCut.png"> box on the left hand tool bar. It should be a cube with a vertical line going up the centre. Make sure your rectangle is selected (it will be orange tinted if it is selected) by pressing **A** on your keyboard.  
 4. Drag your cursor over to the centre line of the rectangle until an either horizontal or vertical yellow line appears. When it does, **click and press CTRL + B** and **drag your mouse outwards** vertically towards the edge of the table one way and then **left click** to apply. Repeat with the vertical dimension so each corner of the bottom of the rectangle has a small square and so there are 9 faces on the bottom in total when you count. See the example.
- <img src="images/LoopCutExample.png"style="float:right;width:200px;height:200px;"> 
+<img src=" images/Loopcuttingtable.gif"> <img src="images/LoopCutExample.png"style="float:right;width:200px;height:200px;"> 
 
-## Extruding Faces:
+## Extruding Faces
 
 Now that we have cut the mesh into smaller faces, we are going to Extrude the little squares we made on each corner of the bottom of the rectangle. We will pull them downward to create the table legs.
+<img src= "images/extrudeinBlender.autosave.gif">
 
 1. Hold the **middle mouse button** and drag to adjust the angle of the table so you can select all 4 squares and also drag downwards. 
 2. Press **3** on the keyboard to change to *“Face mode”* where you can select the faces individually. **Hold shift** and select the four small squares on each corner of the table at the same time. Now press **E** and drag down by selecting the blue arrow and dragging towards the bottom of your screen. Watch the Transform Z in the properties tab.Try to have your table’s Z transform to be around 32 m. 
 3. Save with **CTRL + S**
-<img src= "images/extrudeinBlender.autosave.gif">
 
-## Exporting Your File: 
+
+## Exporting Your File
 
 Now you have made a beginner table in Blender! If you would like to export your model, follow these steps.
 
