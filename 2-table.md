@@ -40,7 +40,8 @@ Instead of adding extra shapes to create the legs of the table, we are going to 
 2. Bring your cursor over to the navigation **gizmo** in the top right corner and select the blue **-Z** option so that you are staring at a direct profile of the bottom half of the table top. 
 3. Select the *“Loop Cut”*  <img src="images/LoopCut.png"> box on the left hand tool bar. It should be a cube with a vertical line going up the centre. Make sure your rectangle is selected (it will be orange tinted if it is selected) by pressing **A** on your keyboard.  
 4. Drag your cursor over to the centre line of the rectangle until an either horizontal or vertical yellow line appears. When it does, **click and press CTRL + B** and **drag your mouse outwards** vertically towards the edge of the table one way and then **left click** to apply. Repeat with the vertical dimension so each corner of the bottom of the rectangle has a small square and so there are 9 faces on the bottom in total when you count. See the example.
-<img src=" images/Loopcuttingtable.gif"> <img src="images/LoopCutExample.png"style="float:right;width:200px;height:200px;"> 
+<img src=" images/Loopcuttingtable.gif">
+<img src="images/LoopCutExample.png" style="float:right;width:200px;height:200px;"> 
 
 ## Extruding Faces
 
