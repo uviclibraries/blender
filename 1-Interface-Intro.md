@@ -73,4 +73,4 @@ Awesome work. You're ready to move on to the next activity!
     }
 </script>
 
-[NEXT STEP: Cellphone Keychain Stand](2-keychain-stand.html){: .btn .btn-blue }
+[NEXT STEP: Modelling a Table](2-Table.html){: .btn .btn-blue }
