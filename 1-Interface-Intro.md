@@ -25,7 +25,12 @@ You will start with a cube in your scene. For the sake of the exercise, we are g
 1. **Right click** on the cube and select *“Delete”* at the bottom of the pop up window. You can also delete by **left clicking** the square and pressing **Delete** on your keyboard.
 2. Go to *“Add”* At the top left of the viewport (the area in which your cube was) and click on *“Mesh”*. 
 3. Select *“Cube”* option. Now you have successfully deleted and added an object into your scene file. Keep the cube in your scene.
-<img src="images/AddingAndDeletingObjects.gif">
+   
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <div id="gif2">
+    <img src="images/AddingAndDeletingObjects.gif">
+    </div>  
+
 
 ## 3. Saving in Blender
 
@@ -35,13 +40,15 @@ It is important to save frequently when using Blender. If your application crash
 
 1. To save, move your cursor to *“File”* in the top left corner of the application. Select and drag down to *“Save As”*. Navigate through your files to a desired saving location, name your project and save.
    
-**Tip: To save your progress while working, you can use the shortcut “CTRL + S”**
+**Tip: To save your progress while working, you can use the shortcut “CTRL+S” on Windows or "COMMAND+S" on MacOS**
 
 
 
 ## 4. Navigating the Viewport in Blender
-
-<img src= "images/Pan,Zoom,RotateDemo.gif">
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <div id="gif2">
+    <img src= "images/Pan,Zoom,RotateDemo.gif">
+    </div>
 
 The window that your cube is in is known as the *"Viewport"* and can be tricky to learn how to navigate. Here are some keyboard shortcuts to memorize so you can move around your cube. Practice!
 
@@ -73,4 +80,4 @@ Awesome work. You're ready to move on to the next activity!
     }
 </script>
 
-[NEXT STEP: Modelling a Table](2-Table.html){: .btn .btn-blue }
+[NEXT STEP: Modelling a Table](2-table.html){: .btn .btn-blue }
