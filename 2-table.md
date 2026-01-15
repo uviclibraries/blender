@@ -28,9 +28,9 @@ To begin making a table we are going to turn the cube into a rectangle.
 3. In the properties tab under *"Dimensions"*, change the scale to be **X: 2m, Y: 4M, and Z: .1M**. You can also scale with the scale tool on the left hand tool bar using the “scale” option and dragging each square along the 3 coloured dimensions to change your shape by clicking on one of the coloured squares and dragging. You should end up with a flat rectangle shape.
    
 4. Press **CTRL + A** to open the *“Apply”* window and press on *“Scale”* to apply the scale. (Now Blender will understand your rectangle as an unedited object rather than an edited cube.)
-   
+<img src="images/ApplyingScaleinBlender.png"  style="float:right;width:200px;height:200px;">    
 5. Save your work with **CTRL + S**
- <img src="images/ApplyingScaleinBlender.png" style="float:right;"> 
+ 
 
 
 
