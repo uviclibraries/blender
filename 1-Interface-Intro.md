@@ -45,6 +45,7 @@ It is important to save frequently when using Blender. If your application crash
 
 
 ## 4. Navigating the Viewport in Blender
+
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
     <img src= "images/Pan,Zoom,RotateDemo.gif">
