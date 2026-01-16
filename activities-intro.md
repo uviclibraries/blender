@@ -6,6 +6,8 @@ parent: Workshop Activities
 ---
 # Hands-On Activities Introduction
 
+Please review the following if you are working through the workshop materials without attending a live event. If you are attending a zoom or in-person workshop, the presentation will be given at the start of the workshop.
+
 Read the [Introductory Slides](https://docs.google.com/presentation/d/1goBm9hGaN65sSEfCQOjqgbWhbGzJ02ii7snGtA7542w/edit?usp=sharing){:target="_blank"} 
 - Resize Your Laptop Screen for Workshop Handouts (2 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
