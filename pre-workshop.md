@@ -9,6 +9,7 @@ This workshop is primarily hands-on practice with Blender in order to learn to u
 1. Download [Blender](https://www.blender.org/download/){:target="_blank"}. This may take a while so be sure to do this beforehand.
 2. Find a compatible mouse for your laptop or computer and make sure you have a working keyboard for this workshop.   
 
-**put videos for examples**
+[Basics of Blender](https://www.youtube.com/watch?v=peSv5IT5Ve4){:target=_"blank"}
+
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
