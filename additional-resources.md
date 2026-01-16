@@ -7,6 +7,8 @@ nav_order: 10
 
 ## Modelling in Blender Resources
 
+[Beginner Blender Demo: Building a Donut](https://www.youtube.com/watch?v=z-Xl9tGqH14){:target="_blank"}
+
 
 ## Acknowledgements
 
