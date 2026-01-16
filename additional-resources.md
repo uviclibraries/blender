@@ -8,7 +8,7 @@ nav_order: 10
 ## Modelling in Blender Resources
 
 [Beginner Blender Demo: Building a Donut](https://www.youtube.com/watch?v=z-Xl9tGqH14){:target="_blank"}
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=z-Xl9tGqH14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z-Xl9tGqH14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Acknowledgements
 
