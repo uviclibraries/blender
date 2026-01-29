@@ -40,7 +40,7 @@ It is important to save frequently when using Blender. If your application crash
 
 1. To save, move your cursor to *“File”* in the top left corner of the application. Select and drag down to *“Save As”*. Navigate through your files to a desired saving location, name your project and save.
    
-**Tip: To save your progress while working, you can use the shortcut “CTRL+S” on Windows or "COMMAND+S" on MacOS**
+**Tip: To save your progress while working, you can also use the shortcut “CTRL+S” on Windows or "COMMAND+S" on MacOS**
 
 
 
