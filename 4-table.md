@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2-Table
-nav_order: 4
+title: 4-Table
+nav_order: 6
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
