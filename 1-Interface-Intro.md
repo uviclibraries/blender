@@ -57,12 +57,12 @@ The window that your cube is in is known as the *"Viewport"* and can be tricky t
 2. Zoom= Middle Mouse Scroll
 3. Rotate= Middle Mouse Button + Drag Mouse
 
-## 5. Trying the Gizmo
+## 5. Trying the gizmo
 
 If you’ve never worked in a 3D space before, it's important to learn how to change the view of your object. 3D workspaces are measured by 3 dimensions and so your workspace is as well. Think of it like Height, Width, and Length: Z being height, and Y and X being the width or length. 
 <img src= "images/Gizmo.png" style="float:right;width:200px;height:200px;">
-1. Navigate to the top right window of your viewport, you’ll see a red, blue, and green shape with a Z, Y and X in it called a *"Gizmo"*. It is a visual representation of the angle you are looking at your scene from. When you move your cursor over to it, it should light up and be enclosed in a circle.
-2. You can **left-click** anywhere within and drag rotate the Gizmo to rotate your scene as well. Or you can select a dimension (Z for example) to snap to a profile shot of that dimension also known as an *"Orthographic View"*. To escape from the profile orthographic view, simply rotate out of it by using the shortcut listed in #4. 
+1. Navigate to the top right window of your viewport, you’ll see a red, blue, and green shape with a Z, Y and X in it called a *"gizmo"*. It is a visual representation of the angle you are looking at your scene from. When you move your cursor over to it, it should light up and be enclosed in a circle.
+2. You can **left-click** anywhere within and drag rotate the gizmo to rotate your scene as well. Or you can select a dimension (Z for example) to snap to a profile shot of that dimension also known as an *"Orthographic View"*. To escape from the profile orthographic view, simply rotate out of it by using the shortcut listed in #4. 
 
 Now you can move around your object! This is important so you can see it properly from all angles during the modelling process. Feel free to review this page more to familiarize yourself with these concepts.
 
