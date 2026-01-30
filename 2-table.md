@@ -23,13 +23,13 @@ To begin making a table we are going to turn the cube into a rectangle.
 <img src="images/Rectangle1of2.png" style="float:right;width:200px;height:200px;">
 1. First, begin by changing the dimensions of the cube to look like a flat rectangle (this will be the table top). In a 3D software you do this by *"scaling"* the dimensions. 
 
-2. **Left Click** on the cube to select it and then pressing the **N key** to open the *"properties tab"*. This should pop up on the right hand side of the viewport beside the Gizmo. The *"properties tab"* is a window which has information on your model such as the current rotation, scale dimensions, and location.
+2. **Left Click** on the cube to select it and then pressing the **N key** to open the *"properties tab"*. This should pop up on the right hand side of the viewport beside the gizmo. The *"properties tab"* is a window which has information on your model such as the current rotation, scale dimensions, and location. You can also find it on the right hand side of your screen beside the view port and below the outliner. But for the sake of this exercise, familiarize yourself with the idea of pressing the **N key** to open the properties tab. 
    
 3. In the properties tab under *"Dimensions"*, change the scale to be **X: 2m, Y: 4M, and Z: .1M**. You can also scale with the scale tool on the left hand tool bar using the “scale” option and dragging each square along the 3 coloured dimensions to change your shape by clicking on one of the coloured squares and dragging. You should end up with a flat rectangle shape.
    
-4. Press **CTRL + A** to open the *“Apply”* window and press on *“Scale”* to apply the scale. (Now Blender will understand your rectangle as an unedited object rather than an edited cube.)
-<img src="images/ApplyingScaleinBlender.png"  style="float:right;width:200px;height:200px;">    
-5. Save your work with **CTRL + S**
+4. Next we want to "apply" the scale which means we will turn the scale into the default scale for this object. Navigate to the top left of your viewport and select "Object", "Apply" and then "Scale". (Now Blender will understand your rectangle as an unedited rectangle rather than an edited cube and thus will make editing the rectangle easier.)
+<img src="images/ApplyingScale.png"  style="float:right;width:200px;height:200px;">    
+5. Save your file.
  
 
 
@@ -42,13 +42,15 @@ Instead of adding extra shapes to create the legs of the table, we are going to 
  
 1. Change your *"Object Interaction Mode"* from *"Object Mode"* to *"Edit Mode"* at the top left corner beneath the *“Edit”* and *“Render”* tabs. **Left click** on *"Object Mode"* and a window will pop up. Select *"Edit Mode"*. You can also press **Tab** on your keyboard to switch between Object Mode and Edit Mode easier. In Edit Mode we begin to edit Points, Vertices, and Faces which is what makes up your object. You will also see on the left hand side of the screen that you have a lot more tools to use. These are used to edit the mesh of the object.
    
-2. Bring your cursor over to the navigation **gizmo** in the top right corner and select the blue **-Z** option so that you are staring at a direct profile of the bottom half of the table top. <img src="images/Loopcuttingtable.gif" style="float:right;width:200px;height:200px;">
-<img src="images/LoopCutExample.png" style="float:right;width:200px;height:200px;"> 
-3. Select the *“Loop Cut”*  <img src="images/LoopCut.png"> box on the left hand tool bar. It should be a cube with a vertical line going up the centre. Make sure your rectangle is selected (it will be orange tinted if it is selected) by pressing **A** on your keyboard.  
+2. Bring your cursor over to the navigation **gizmo** in the top right corner and select the blue **-Z** option so that you are staring at a direct profile of the bottom half of the table top. <img src="images/LoopCut.gif" style="float:right;width:200px;height:200px;">
+<img src="images/LoopCutExample.png" style="float:right;width:200px;height:200px;">
 
-4. Drag your cursor over to the centre line of the rectangle until an either horizontal or vertical yellow line appears. When it does, **click and press CTRL + B** and **drag your mouse outwards** vertically towards the edge of the table one way and then **left click** to apply. Repeat with the vertical dimension so each corner of the bottom of the rectangle has a small square and so there are 9 faces on the bottom in total when you count. See the example.
+4. Select the *“Loop Cut”*  <img src="images/LoopCut.png"> box on the left hand tool bar. It should be a cube with a vertical line going up the centre. Make sure your rectangle is selected (it will be orange tinted if it is selected) by going to "Select" and then "All" at the top of the view port. <img src= "images/SelectAll.png" style="float:right;width:200px;height:200px;">
 
 
+5. Drag your cursor over to the centre line of the rectangle until an either horizontal or vertical yellow line appears. When it does, **click** and then **dragyour mouse outwards** vertically towards the edge of the table one way and then **left click** to apply. Repeat with the vertical dimension so each corner of the bottom of the rectangle has a small square and so there are 9 faces on the bottom in total when you count. See the example.
+
+6. Save your file.
 
 ## Extruding Faces
 
@@ -57,9 +59,11 @@ Now that we have cut the mesh into smaller faces, we are going to Extrude the li
 
 1. Hold the **middle mouse button** and drag to adjust the angle of the table so you can select all 4 squares and also drag downwards. 
 
-2. Press **3** on the keyboard to change to *“Face mode”* where you can select the faces individually. **Hold shift** and select the four small squares on each corner of the table at the same time. Now press **E** and drag down by selecting the blue arrow and dragging towards the bottom of your screen. Watch the Transform Z in the properties tab.Try to have your table’s Z transform to be around 32 m. 
-
-3. Save with **CTRL + S**
+2. Now we are going to change our editing mode to "Face Mode". Navigate to the top left corner beside the drop down menu that says "Edit Mode". To the right of it will be three boxes. You want to select the furthest right one which is named "Face Mode" because now we will be extruding faces from the bottom side of the model.
+   
+3. Turn on "Extrude Region" which is found on the tool bar on the left. **Hold shift** and select the four small squares on each corner of the table at the same time. Press the plus sign and drag them outward to extrude until you have your desired length of table legs.
+<img src= "images/Extruding.png" style="float:right;width:200px;height:200px;">
+4. Save your file.
 
 
 ## Exporting Your File
