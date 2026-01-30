@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/Blender-Logo.png" style="float:right;width:180px;" alt="image description">
 
-# 3D Modeling in Blender
+# Modelling in Blender
 
 - Pre-workshop activities: 00 min 
 - Introductory presentation: 00 min
