@@ -7,9 +7,9 @@ nav_order: 1
 
 # Modelling in Blender
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 20 min 
+- Introductory presentation: 25 min
+- Hands-on activities: 65 min
 
 ## Why Blender?
 
