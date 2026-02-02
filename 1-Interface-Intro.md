@@ -57,7 +57,7 @@ The window that your cube is in is known as the *"Viewport"* and can be tricky t
 2. Zoom= Middle Mouse Scroll
 3. Rotate= Middle Mouse Button + Drag Mouse
 
-## 5. Trying the gizmo
+## 5. Trying the Gizmo
 
 If you’ve never worked in a 3D space before, it's important to learn how to change the view of your object. 3D workspaces are measured by 3 dimensions and so your workspace is as well. Think of it like Height, Width, and Length: Z being height, and Y and X being the width or length. 
 <img src= "images/Gizmo.png" style="float:right;width:200px;height:200px;">
@@ -81,4 +81,4 @@ Awesome work. You're ready to move on to the next activity!
     }
 </script>
 
-[NEXT STEP: Modelling a Table](2-table.html){: .btn .btn-blue }
+[NEXT STEP: Modelling an Icecream Cone](2-Icecream-Cone.html){: .btn .btn-blue }
