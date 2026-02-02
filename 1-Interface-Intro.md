@@ -46,16 +46,16 @@ It is important to save frequently when using Blender. If your application crash
 
 ## 4. Navigating the Viewport in Blender
 
-   <button onclick="toggle('gif2')">Show/Hide Animation</button>
-   <div id="gif2">
-   <img src= "images/Pan,Zoom,RotateDemo.gif">
-   </div>
-
 The window that your cube is in is known as the *"Viewport"* and can be tricky to learn how to navigate. Here are some keyboard shortcuts to memorize so you can move around your cube. Practice!
 
 1. Pan= Shift + Middle Mouse Button + Drag Mouse
 2. Zoom= Middle Mouse Scroll
 3. Rotate= Middle Mouse Button + Drag Mouse
+
+   <button onclick="toggle('gif2')">Show/Hide Animation</button>
+   <div id="gif2">
+   <img src= "images/Pan,Zoom,RotateDemo.gif">
+   </div>
 
 ## 5. Trying the Gizmo
 
