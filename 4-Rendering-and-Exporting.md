@@ -26,4 +26,4 @@ Once you have found a camera angle that you are satisfied with, it's time to cha
 
 ## 3. Rendering a 2D image of your model
 
-Now it is time to render your 2D image! 
+Now it is time to render your 2D image!
