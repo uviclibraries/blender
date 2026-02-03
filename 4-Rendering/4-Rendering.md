@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 4-Rendering-and-Exporting
+title: 4-Rendering 
 nav_order: 5
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# Rendering
+# Rendering 
 
 ## 1. Using the camera 
 
