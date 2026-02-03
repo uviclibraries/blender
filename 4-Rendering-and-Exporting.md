@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-Icecream Cone
+title: 4-Rendering-and-Exporting
 nav_order: 4
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
