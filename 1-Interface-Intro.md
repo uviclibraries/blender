@@ -52,8 +52,8 @@ The window that your cube is in is known as the *"Viewport"* and can be tricky t
 2. Zoom= Middle Mouse Scroll
 3. Rotate= Middle Mouse Button + Drag Mouse
 
-   <button onclick="toggle('gif2')">Show/Hide Animation</button>
-   <div id="gif2">
+   <button onclick="toggle('gif3')">Show/Hide Animation</button>
+   <div id="gif3">
    <img src= "images/Pan,Zoom,RotateDemo.gif">
    </div>
 
