@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1- Interface Intro
+title: 1-Interface Intro
 nav_order: 2
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
