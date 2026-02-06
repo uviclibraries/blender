@@ -3,7 +3,7 @@ layout: default
 title: Earn a Workshop Badge
 nav_order: 9
 ---
-**UPDATE WITH WORKSHOP BADGE URL FROM BADGR.COM:** <img src="https://api.badgr.io/public/badges/VniblBxHTduaHgNkPtAVfQ/image" style="float:right;width:180px;"> 
+<img src="images/blender.png" style="float:right;width:180px;"> 
 
 # Informal Credentials or Digital Badges
 
@@ -16,7 +16,7 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 ### UPDATE: Earn an Informal Credential or Badge for WORKSHOP
 
 If you’d like to earn a DSC badge for this workshop, please email the following to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
-1. A screenshot of your finished model plus any other additional models you may have made after experimenting with the tools.
+1. A screenshot of your activity 1 and activity 2 completed
 2. An exported .stl or .obj file of your model
 
 ### Learn how you can share your DSC Badge
