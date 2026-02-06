@@ -74,6 +74,8 @@ Now, we want to turn the torus and the cone into the same shape so that we can e
 
 3. Go to your outliner window and **double click** the word *"UV Sphere"* to change it to *"Icecream"*
 
+   
+
 Wonderful, now you have created the basic icecream cone model! If you want to take it to the next level, try the next activity.
 
 [NEXT STEP: Adding Materials](3-Adding-Materials.html){: .btn .btn-blue }
