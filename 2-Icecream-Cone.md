@@ -27,6 +27,7 @@ To begin, we are going to *"Add"* three different shapes to the viewport that we
     <div id="gifcone">
     <img src="images/AddingCone.gif">
     </div> 
+     
 4. Select *"Rotate"* on the left tool bar and navigate to the properties tab on the right hand side. Under transform, there is a Rotation X, Y, and Z. Click on the 0 to the right of the Rotation Y and change the value to 180. This should flip your cone around so it's standing up.
 5. Look to the right of the viewport in the top right window. There should be a list that says *"Camera" "Cone"* and *"Light"*. These are all of the things that are in your file right now. **Double click** on the word *"Cone"* and rename it to *"Waffle Cone"*. 
 **Note: your viewport will have a camera and light in it by default and these are important to keep there for if you want to render an image of your ice cream cone after!*
@@ -41,11 +42,13 @@ To begin, we are going to *"Add"* three different shapes to the viewport that we
     <div id="gifsphere">
     <img src="images/AddUVSphere.gif" >
     </div> 
+    
 4. Now, add a *"Torus"* into the viewport by going to *"Add", "Mesh"* and then *"Torus"*. Raise your torus up by selecting *"Move"* on the left tool bar and bring it up to the area where the icecream meets the cone. Alter the size by using *"Scale"* and using the white circle to click and drag the torus into a size that looks like the part of an icecream scoop that is overlapping the edge of the cone.
-     <button onclick="toggle('giftorus')">Show/Hide Animation</button>
-     <div id="giftorus">
-     <img src= "images/AddingTorus.gif" >
-     </div>
+    <button onclick="toggle('giftorus')">Show/Hide Animation</button>
+    <div id="giftorus">
+    <img src= "images/AddingTorus.gif" >
+    </div>
+     
 5. Look in the outliner window and note that there should be five objects in it: *"Camera, Waffle Cone, Light, Sphere,* and a *Torus"*.
    
 ## 4. Joining objects
@@ -58,6 +61,7 @@ Now, we want to turn the torus and the cone into the same shape so that we can e
     <div id="gifjoin">
     <img src= "images/JoiningObjects.gif" > 
     </div> 
+    
 3. Go to your outliner window and **double click** the word *"UV Sphere"* to change it to *"Icecream"*
 <img src="images/RenamingIcecream2.png" style="float:right;width:200px;height:200px;"> <img src="images/RenamingIcecream3.png" style="float:right;width:200px;height:200px;"> 
 Wonderful, now you have created the basic icecream cone model! If you want to take it to the next level, try the next activity. 
