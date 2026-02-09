@@ -65,7 +65,7 @@ Now, we want to turn the torus and the cone into the same shape so that we can e
 1. Begin by **left-clicking** on the *"UV Sphere"* and then **holding shift** to select the torus at the same time.
    
 2. Navigate to *"Object"* which is beside the *"Add"* button. **Left-click** on it and then choose *"join"*. Now your objects should be conjoined and your outliner will have conjoined the UV Sphere and Torus into the same object. Whichever object you click on first when joining them together is what the new object will be named. In this case, I selected the UV Sphere first so the conjoined object is named "UV Sphere".
-    <button onclick="toggle('gifkoin')">Show/Hide Animation</button>
+    <button onclick="toggle('gifjoin')">Show/Hide Animation</button>
     <div id="gifjoin">
     <img src= "images/JoiningObjects.gif" > 
     </div> 
