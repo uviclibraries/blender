@@ -78,4 +78,16 @@ Now, we want to turn the torus and the cone into the same shape so that we can e
 
 Wonderful, now you have created the basic ice cream cone model! If you want to take it to the next level, try the next activity.
 
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script
+    
 [NEXT STEP: Adding Materials](3-Adding-Materials.html){: .btn .btn-blue }
