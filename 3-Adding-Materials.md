@@ -19,19 +19,19 @@ In the last activity, we conjoined the taurus and the UV sphere together to crea
     <button onclick="toggle('gifshading')">Show/Hide Animation</button>
     <div id="gifshading">
     <img src="images/SwitchingtoShading.gif">
-    </div
+    </div>
 2. Locate the "Shader Editor". If you look below the viewport where your objects are, you will see an empty window which in the top left has a couple options that say "Object" "View" "Select" "Add" etc.... Right now there is nothing in it because we have not added any "materials" to our models to edit.  Select your icecream scoop by right clicking on it in the viewport so that there is an orange outline surrounding it.
-
+<img src= "images/ShaderEditor.png">
 3. Navigate back into the shading editor. At the top of it beside "Slot" there should be a gray rectangle that says "+ New". Select this and a new window will show up in the shader editor. This is the material you just added. 
     <button onclick="toggle('gifadd')">Show/Hide Animation</button>
     <div id="gifadd">
     <img src= "images/AddingMaterial.gif"> 
-    </div
+    </div>
 4. The first thing in the window should be a "Base Colour" with a white rectangle to the right of it. Click on the white rectangle to choose a colour for your icecream scoop. Any colour will do, maybe pick the colour of your favourite flavour if you are unsure. 
     <button onclick="toggle('gifcolour')">Show/Hide Animation</button>
     <div id="gifcolour">
     <img src= "images/AddingColour.gif"> 
-    </div
+    </div>
 ## Adding an image to the Waffle Cone
 
 Now, we want to add a some colour to the cone, but let's try something more advanced. If you found the first step difficult, repeat the same steps and add a colour to your cone instead like we did for the icecream scoop. If you're ready to learn something harder, follow along!
