@@ -64,4 +64,5 @@ Now, we want to add a some colour to the cone, but let's try something more adva
         }
     }
 </script>
-    [NEXT STEP: Rendering](4-Rendering.html){: .btn .btn-blue }
+    
+[NEXT STEP: Rendering](4-Rendering.html){: .btn .btn-blue }
