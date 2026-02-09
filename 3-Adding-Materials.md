@@ -16,13 +16,13 @@ Using your icecream cone model from the last activity, let's take it to the next
 In the last activity, we conjoined the taurus and the UV sphere together to create the icecream scoop on top of the waffle cone. In this step we will cover how to make your icecream scoop whatever colour you'd like.
 
 1. At the top of your Blender application window, you will see a variety of other window options. We are going to open the "Shading" window. Do not be alarmed by the sudden change in scenery, there is a lot going on in this workspace but if you follow the instructions you will be just fine.
+ <img src="images/SwitchingtoShading.gif">
+2. Locate the "Shader Editor". If you look below the viewport where your objects are, you will see an empty window which in the top left has a couple options that say "Object" "View" "Select" "Add" etc.... Right now there is nothing in it because we have not added any "materials" to our models to edit.  Select your icecream scoop by right clicking on it in the viewport so that there is an orange outline surrounding it.
 
-2. Locate the "Shader Editor". If you look below the viewport where your objects are, you will see an empty window which in the top left has a couple options that say "Object" "View" "Select" "Add" etc.... Right now there is nothing in it because we have not added any "materials" to our models to edit.  
-
-3. Navigate further to the right and beside "Slot" There should be a gray rectangle that says "+ New". Select this and a new window will show up in the shader editor.
-
-4. The first thing in the window should be a Base Colour with a white rectangle to the right of it. Click on the white rectangle to choose a colour for your icecream scoop. Any colour will do.
-
+3. Navigate back into the shading editor. At the top of it beside "Slot" there should be a gray rectangle that says "+ New". Select this and a new window will show up in the shader editor. This is the material you just added. 
+ <img src= "images/AddingMaterial.gif"> 
+4. The first thing in the window should be a "Base Colour" with a white rectangle to the right of it. Click on the white rectangle to choose a colour for your icecream scoop. Any colour will do, maybe pick the colour of your favourite flavour if you are unsure. 
+ <img src= "images/AddingColour.gif">
 ## Adding an image to the Waffle Cone
 
 Now, we want to add a some colour to the cone, but let's try something more advanced. If you found the first step difficult, repeat the same steps and add a colour to your cone instead like we did for the icecream scoop. If you're ready to learn something harder, follow along!
