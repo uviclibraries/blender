@@ -12,9 +12,9 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 In Blender, every file you open typically has one camera and one light in it. These are two tools you can use for rendering or animation! Since we made a model, let's try rendering it. Rendering means converting your 3D model into a 2D image or animation!
 
-1. Locate your camera by looking around your scene. Usually, your camera is somewhere near the center where the axis meet and should be composed of a rectangle and triangles. This is your camera. You can also locate it in the outliner on the right hand side of your viewport.
+1. Locate your camera by looking around your scene. Usually, your camera is somewhere near the center where the axis meet and look like a sideways pyramid with an orange dot at the tip. This is your camera. You can also locate it in the outliner on the right hand side of your viewport.
 
-2. Your camera works similarly to a model in that you can rotate and move it around to cahange what it is capturing. Ideally, it would be nice for your camera to be pointing at your icecream cone so we can render an image of it. You can enter the camera view by **INSERT INSTRUCTIONS HERE**
+2. Your camera works similarly to a model in that you can rotate and move it around to change what it is capturing. Ideally, it would be nice for your camera to be pointing at your icecream cone so we can render an image of it. You can enter the camera view by clicking on the camera icon beneath the gizmo on the right side of your viewport.
 
 3. Now, we are in the camera view and you can get a sense of where the camera is pointed. If you are unhappy with the angle, go back out of the camera view and select the "rotate", "view" or "scale" options to adjust your camera until you have figured out an angle in which you can see your whole icecream cone. Make sure to intermittedly check the camera view as you adjust.   
 
