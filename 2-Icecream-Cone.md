@@ -73,9 +73,7 @@ Now, we want to turn the torus and the cone into the same shape so that we can e
 <img src="images/RenamingIcecream2.png" style="float:right;width:200px;height:200px;"> <img src="images/RenamingIcecream3.png" style="float:right;width:200px;height:200px;"> 
 
 3. Go to your outliner window and **double-click** the word *"UV Sphere"* to change it to *"Ice cream"*
-
-   
-
+ 
 Wonderful, now you have created the basic ice cream cone model! If you want to take it to the next level, try the next activity.
 
 <script>  
