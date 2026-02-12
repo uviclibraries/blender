@@ -64,6 +64,7 @@ Now, we want to add a some colour to the cone, but let's try something more adva
 Looks awesome. Now let's move along to learning about rendering an image of your waffle cone!
 
 
+
 <script>  
 
     function toggle(input) {
