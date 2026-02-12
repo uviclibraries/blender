@@ -16,7 +16,7 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 ### UPDATE: Earn an Informal Credential or Badge for WORKSHOP
 
 If you’d like to earn a DSC badge for this workshop, please email the following to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
-1. A screenshot of your activity 1 and activity 2 completed
+1. A screenshot of your screen at the end of activity 2, a screenshot of your icecream cone from activity 3, plus screenshots from any additional activities you did in the workshop.
 2. An exported .stl or .obj file of your model
 
 ### Learn how you can share your DSC Badge
