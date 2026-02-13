@@ -16,11 +16,13 @@ In Blender, every file you open typically has one camera and one light in it. Th
 
 2. Your camera works similarly to a model in that you can rotate and move it around to change what it is capturing. Ideally, it would be nice for your camera to be pointing at your icecream cone so we can render an image of it. You can enter the camera view by clicking on the camera icon beneath the gizmo on the right side of your viewport.
 
-3. Now, we are in the camera view and you can get a sense of where the camera is pointed. If you are unhappy with the angle, go back out of the camera view by middle mouse dragging to rotate out of the view and then select the *"rotate", "view"* or *"scale"* options to adjust your camera until you have figured out an angle in which you can see your whole icecream cone. Make sure to intermittedly check the camera view as you adjust. If this is too tedious, try the next step instead for a different approach to changing your camera angle.
+3. Now, we are in the camera view and you can get a sense of where the camera is pointed. If you are unhappy with the angle, you can adjust it by **left-clicking** on the lock button beneath the camera button. Now you can toggle your camera view similarly to how you were able to navigate around your model before.
 
-4. The other way to change your camera angle while staying in the camera view would be to go into your camera view again by pressing on the camera button on the right hand side of the viewport. In this view, left click on the frame line that appears in your viewport until it turns bright orange. Press *"G"* on your keyboard once and now you have activated the pan feature. By dragging your mouse, you can pan around until you center your icecream cone in the middle.
+Zoom: Middle mouse button scroll
+Pan: Hold Shift + Middle mouse button and drag mouse
+Rotate: Hold Middle mouse button and drag
 
-5. If it is too close or far away, you can **middle mouse button click** once and then drag your mouse and it will zoom in and out. **Left click** to confirm. Now you have found your camera angle. You can toggle out of it by holding the middle mouse button and dragging. It will keep your camera angle saved. 
+4. Once you have finished adjusting the camera, click on the lock again to unlock it. Now middle mouse button click anywhere in the viewport to escape the camera view. Your camera view will load as whatever it was last time you opened it.
 
 ## 2. Using the light 
 
