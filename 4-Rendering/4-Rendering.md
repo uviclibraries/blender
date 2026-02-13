@@ -16,14 +16,22 @@ In Blender, every file you open typically has one camera and one light in it. Th
 
 2. Your camera works similarly to a model in that you can rotate and move it around to change what it is capturing. Ideally, it would be nice for your camera to be pointing at your icecream cone so we can render an image of it. You can enter the camera view by clicking on the camera icon beneath the gizmo on the right side of your viewport.
 
-3. Now, we are in the camera view and you can get a sense of where the camera is pointed. If you are unhappy with the angle, go back out of the camera view and select the "rotate", "view" or "scale" options to adjust your camera until you have figured out an angle in which you can see your whole icecream cone. Make sure to intermittedly check the camera view as you adjust.   
+3. Now, we are in the camera view and you can get a sense of where the camera is pointed. If you are unhappy with the angle, go back out of the camera view by middle mouse dragging to rotate out of the view and then select the *"rotate", "view"* or *"scale"* options to adjust your camera until you have figured out an angle in which you can see your whole icecream cone. Make sure to intermittedly check the camera view as you adjust. If this is too tedious, try the next step instead for a different approach to changing your camera angle.
+
+4. The other way to change your camera angle while staying in the camera view would be to go into your camera view again by pressing on the camera button on the right hand side of the viewport. In this view, left click on the frame line that appears in your viewport until it turns bright orange. Press *"G"* on your keyboard once and now you have activated the pan feature. By dragging your mouse, you can pan around until you center your icecream cone in the middle.
+
+5. If it is too close or far away, you can **middle mouse button click** once and then drag your mouse and it will zoom in and out. **Left click** to confirm. Now you have found your camera angle. You can toggle out of it by holding the middle mouse button and dragging. It will keep your camera angle saved. 
 
 ## 2. Using the light 
 
 Once you have found a camera angle that you are satisfied with, it's time to change where the light is located. Treat your light as a real light source. If your light is behind your model and the camera is in front of your model, your model is going to be backlit. If the light is also in front of the model by the camera, there is going to be a lot of light on the model. 
 
-1. Adjust the light as you did with the camera. Selecting the light by clicking on the light in your scene or in the outliner and then using the "move" or "scale" option to place it where you want. I suggest for this activity, placing the light either directly above or beside where the camera is so that there is a lot of light shining on the object for the render.
+1. Adjust the light as you did with the camera. Selecting the light by clicking on the light in your scene or in the outliner and then using the "move" or "scale" option to place it where you want. I suggest for this activity, placing the light either directly above or beside where the camera is so that there is a lot of light shining on the object for the render. Once you do your first render, feel free to move your light around into a different spot if you are unhappy with the lighting.
 
 ## 3. Rendering a 2D image of your model
 
 Now it is time to render your 2D image!
+
+1. At the top of your viewport, along the other different windows, **left-click** the one that says Rendering. 
+
+
