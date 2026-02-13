@@ -34,6 +34,8 @@ Once you have found a camera angle that you are satisfied with, it's time to cha
 
 Now it is time to render your 2D image!
 
-1. At the top of your viewport, along the other different windows, **left-click** the one that says Rendering. 
+1. At the top of the Blender application next to *"File"* and *"Edit"* there is a button that says *"Render"*. Click on that and now you can see what your model looks like!
+
+2. If you want to save this image, you can click on *"Image*" at the top of the Render window and select *"Save As"* to pick a spot to save it to.  
 
 
