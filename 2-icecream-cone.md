@@ -88,4 +88,4 @@ Wonderful, now you have created the basic ice cream cone model! If you want to t
     }
 </script
     
-[NEXT STEP: Adding Materials](3-Adding-Materials.html){: .btn .btn-blue }
+[NEXT STEP: Adding Materials](3-adding-materials.html){: .btn .btn-blue }
