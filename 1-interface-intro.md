@@ -81,4 +81,4 @@ Awesome work. You're ready to move on to the next activity!
     }
 </script>
 
-[NEXT STEP: Modelling an Icecream Cone](2-Icecream-Cone.html){: .btn .btn-blue }
+[NEXT STEP: Modelling an Icecream Cone](2-icecream-cone.html){: .btn .btn-blue }
