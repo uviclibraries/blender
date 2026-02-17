@@ -77,4 +77,4 @@ Looks awesome. Now let's move along to learning about rendering an image of your
     }
 </script>
     
-[NEXT STEP: Rendering](4-Rendering.html){: .btn .btn-blue }
+[NEXT STEP: Rendering](4-rendering.html){: .btn .btn-blue }
