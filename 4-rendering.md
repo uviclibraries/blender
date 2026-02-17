@@ -17,7 +17,7 @@ In Blender, every file you open typically has one camera and one light in it. Th
 
 1. Locate your camera by looking around your scene. Usually, your camera is somewhere near the center where the axis meet and look like a sideways pyramid with an orange dot at the tip. This is your camera. You can also locate it in the outliner on the right hand side of your viewport.
 
-<img src="images/CameraView.png"style="float:right;width:200px;height:200px;">
+<img src="images/CameraView.png" style="float:right;width:200px;height:200px;">
 
 2. Your camera works similarly to a model in that you can rotate and move it around to change what it is capturing. Ideally, it would be nice for your camera to be pointing at your icecream cone so we can render an image of it. You can enter the camera view by clicking on the camera icon beneath the gizmo on the right side of your viewport.
 
