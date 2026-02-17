@@ -29,4 +29,4 @@ There are many different types of 3D model file types but the most frequently us
 
 You are finished! Great work! If you want to try some more advanced modelling tools, click on for the next activity which explores "Edit Mode" in Blender. 
 
-[NEXT STEP: Creaing a Table](6-Table.html){: .btn .btn-blue }
+[NEXT STEP: Creaing a Table](6-table.html){: .btn .btn-blue }
