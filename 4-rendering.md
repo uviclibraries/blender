@@ -52,4 +52,4 @@ Now it is time to render your 2D image!
 
 Great job! Now you know how to use the camera, light, and how to render an image in Blender!
 
-[NEXT STEP: Rendering](5-Table.html){: .btn .btn-blue }
+[NEXT STEP: Exporting](5-exporting.html){: .btn .btn-blue }
