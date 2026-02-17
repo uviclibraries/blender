@@ -19,9 +19,13 @@ There are many different types of 3D model file types but the most frequently us
 
 ## How to Export
 
-1. Select *"File"* at the top left of the viewport and select *"Export*".
+1. Select *"File"* at the top left of the viewport and select *"Export*"
+
 2. In the pop-up window, select your file type of choice (either .stl or wavefront .obj in this case).
+<img src="images/FileExportAs.png">
+
 3. Select your save location in your files and then choose the blue button at the bottom of that window which says *"Export STL"* or *"Export Wavefront OBJ"* depending on which one you chose.
+<img src="images/ExportButton.png">
 
 You are finished! Great work! If you want to try some more advanced modelling tools, click on for the next activity which explores "Edit Mode" in Blender. 
 
