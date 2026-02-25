@@ -38,8 +38,7 @@ To begin, we are going to *"Add"* three different shapes to the viewport that we
 **Note: your viewport will have a camera and light in it by default and these are important to keep there for if you want to render an image of your ice cream cone after!*
   <img src="images/RenameCone1.png" style="float:right;width:200px;height:200px;"> <img src="images/RenameCone2.png" style="float:right;width:200px;height:200px;">
 
-</div>
-</div>
+
 
 ## 3. Creating your icecream scoop
 
@@ -77,8 +76,6 @@ Now, we want to turn the torus and the cone into the same shape so that we can e
 
 3. Go to your outliner window and **double-click** the word *"UV Sphere"* to change it to *"Ice cream"*
 
-</div>
-</div>
  
 Wonderful, now you have created the basic ice cream cone model! If you want to take it to the next level, try the next activity.
 
