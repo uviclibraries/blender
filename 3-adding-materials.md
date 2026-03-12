@@ -44,7 +44,7 @@ In the last activity, we conjoined the taurus and the UV sphere together to crea
 
 Now, we want to add a some colour to the cone, but let's try something more advanced. If you found the first step difficult, repeat the same steps and add a colour to your cone instead like we did for the icecream scoop. If you're ready to learn something harder, follow along!
 
-1. Download this image of a waffle cone pattern. [File here](insert link to google drive sharable icecream patterns)
+1. Download this image of a waffle cone pattern. <a href="images/WaffleConePattern.jpg" download="Icecream-Pattern-Image"> Download Image </a>
 
 2. Back in Blender in the shading editor, select your Waffle Cone model and select *"+New* at the top.
 
