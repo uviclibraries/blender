@@ -89,6 +89,6 @@ Wonderful, now you have created the basic ice cream cone model! If you want to t
             x.style.display = "none";
         }
     }
-</script
+</script>
     
 [NEXT STEP: Adding Materials](3-adding-materials.html){: .btn .btn-blue }
