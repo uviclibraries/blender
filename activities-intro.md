@@ -4,8 +4,7 @@ title: Self-Directed Introduction
 nav_order: 1
 parent: Workshop Activities
 ---
-# Hands-On Self-Directed Introduction
-
+# Introduction for Self-Directed Learners
 Please review the following if you are working through the workshop materials without attending a live event. If you are attending a zoom or in-person workshop, the presentation will be given at the start of the workshop.
 
 Read the [Introductory Slides](https://docs.google.com/presentation/d/1goBm9hGaN65sSEfCQOjqgbWhbGzJ02ii7snGtA7542w/edit?usp=sharing){:target="_blank"} 
